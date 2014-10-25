@@ -10,9 +10,11 @@ How to use this repo
 You will need to fork this repo into your own account in order to upload your files
 
 Steps:
-1) Fork the repo using fork button
-2) Clone your new repo using clone link on page
-3) Do you work in the clone repo
-4) Add the files
-5) Add a commit message to files
-6) Push up your changes
+<ol>
+<li>Fork the repo using fork button</li>
+<li>Clone your new repo to your machine using clone link on page</li>
+<li>Do you work in the clone repo on your local machine</li>
+<li>Add the files</li>
+<li>Add a commit message to files</li>
+<li>Push up your changes</li>
+</ol>
