@@ -1,0 +1,17 @@
+# working on level 3 here
+
+class Player
+  def play_turn(warrior)
+    
+    if warrior.health < 2
+      then warrior.rest! 
+    end
+    
+    if warrior.feel.empty? == true
+       warrior.walk!
+      elsif
+       warrior.attack!
+     end
+    
+  end
+end
