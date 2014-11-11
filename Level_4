@@ -1,0 +1,28 @@
+
+
+This is my level 4 code
+
+class Player
+  min_health = 18
+  def play_turn(warrior)
+    
+    warrior.health
+    warrior.feel
+    
+    def initialize(health)
+      @health = current_health
+    end
+    
+    if current_health < warrior.health
+      warrior.rest!
+    else
+
+        if warrior.feel.empty?
+            warrior.walk!
+        else
+            warrior.attack!
+        end
+        
+    end
+  
+end
